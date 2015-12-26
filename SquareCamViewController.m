@@ -52,7 +52,7 @@
 #import <AssetsLibrary/AssetsLibrary.h>
 #include <sys/time.h>
 
-#import <DeepBelief/DeepBelief.h>
+#import "DeepBelief/DeepBelief.h"
 
 #pragma mark-
 
